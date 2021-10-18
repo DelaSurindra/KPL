@@ -1,0 +1,32 @@
+body {
+  background: url("https://4.bp.blogspot.com/-RDJHGgXNaTM/V9ZB_w4I6zI/AAAAAAAAABI/ZNI628mA1tEp_Czvg2GUx55a0QpnuwTywCK4B/s1600/1-9-gunung-favorit-jateng.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  margin: auto;
+  align-items: center;
+}
+
+.form-login {
+  width: 60%;
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 4);
+  padding: 30px;
+  border: 1px;
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  background: #fffafa;
+  mix-blend-mode: normal;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  position: absolute;
+  border-radius: 30px;
+}
+button {
+  width: 100%;
+}

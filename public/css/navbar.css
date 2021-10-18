@@ -1,0 +1,45 @@
+nav {
+  padding-top: 6px;
+}
+
+.menu:hover {
+  font-weight: 500;
+  color: black;
+}
+
+.menu {
+  color: black;
+  text-align: center;
+  width: 100px;
+  cursor: pointer;
+}
+
+.user-profile {
+  cursor: pointer;
+  margin-right: 64px;
+}
+
+.user {
+  display: inline-block; 
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.bg-nav-button {
+  margin-left: 40%;
+}
+
+.bg-nav {
+  background: #eeeeee;
+  width: 100%;
+}
+
+.bg-nav .logo {
+  float: left;
+  margin-left: 96px;
+}
+
+.bg-nav .logo span {
+  margin-left: 8px;
+  font-weight: bold;
+}

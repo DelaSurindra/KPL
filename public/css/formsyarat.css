@@ -1,0 +1,43 @@
+.content {
+  margin: auto;
+  background-image: url("../img/background01.jpeg");
+  background-position: center;
+  background-size: cover;
+}
+
+.card {
+  margin-top: 50px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 4);
+}
+.card-body p {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
+
+.card-body hr {
+  width: 70%;
+  margin-left: 170px;
+  color: #afaeae;
+}
+
+.card-body img {
+  width: 80px;
+  height: 100px;
+  margin-left: 500px;
+  margin-top: 20px;
+}
+
+.btn-primary {
+  margin-top: 30px;
+}
+
+.btn-toolbar {
+  padding-left: 480px;
+}
+.halaman a {
+  padding: 4px;
+}

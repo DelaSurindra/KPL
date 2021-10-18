@@ -1,0 +1,20 @@
+.tengah {
+  width: 200px;
+  height: 200px;
+  margin-left: 70px;
+  margin-top: 150px;
+}
+
+.kiri {
+  width: 200px;
+  height: 200px;
+  margin-left: 120px;
+  margin-top: 150px;
+}
+
+.kanan {
+  width: 200px;
+  height: 200px;
+  margin-left: 20px;
+  margin-top: 150px;
+}

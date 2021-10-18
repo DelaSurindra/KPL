@@ -1,0 +1,12 @@
+1. Tambah Judul di landing page
+2. Menentukan type form pendaftaran
+3. Menampilkan warning form yang belum diisi
+4. Menambahkan judul pada bagian nama pengurus, kontak
+5. Masa bhakti dikasih keterangan (seperti tahun, bulan), datatype dibuat float
+6. Lambang type png, diberi ketentuan max size
+7. Tombol download di konfirmasi pendaftaran
+8. Laporan ditambahi Lokasi kegiatan setelah judul kegiatan dan tanggal kegiatan
+9. Foto kegiatan diberi keterangan max size dan type png
+10. Menu Data ditambahi laporan dan aduan (act: desain nunggu kiriman)
+11. Aduan (masih rancu)
+12. Nama Organisasi di pendaftaran dibuat case-sensitive

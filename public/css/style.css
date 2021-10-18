@@ -1,0 +1,27 @@
+.center-object {
+    position: fixed;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+.card {
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 4);
+}
+  
+.card-body hr {
+    width: 70%;
+    margin-left: 15%;
+    color: #afaeae;
+}
+
+.card-body .title {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.btn-action {
+    width: 100%;
+}

@@ -1,0 +1,82 @@
+body {
+  background: white;
+}
+
+.background-image-1 {
+  background-image: url('https://i.pinimg.com/originals/fa/d1/76/fad17616fd8c8191f2ac5ba5865336e7.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 100%;
+  width: 100%;
+}
+
+.background-image-2 {
+  background-image: url('https://cdn1-production-images-kly.akamaized.net/U1oV0x5NNwTTWmtUDJea3htC9EA=/1231x710/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1183775/original/098465100_1459080513-20160327--Semarak-Karnaval-Lintas-Budaya-di-Semarang-Gholib-01.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 100%;
+  width: 100%;
+}
+
+.background-image-3 {
+  background-image: url('https://www.anugerahkubah.com/wp-content/uploads/2018/01/Masjid-Agung-Al-Mabrur.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 100%;
+  width: 100%;
+}
+
+.content-beranda {
+  background: #eeeeee;
+  width: 1349px;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.bg-beranda {
+  opacity: 0.5;
+  float: left;
+  position: absolute;
+  margin-top: 350px;
+}
+
+.item {
+  height: 550px;
+}
+
+.proker h4 {
+  text-align: left;
+  margin-top: 50px;
+  margin-left: 70px;
+  font-style: oblique;
+}
+
+.proker hr {
+  width: 50px;
+  margin-left: 100px;
+  margin-bottom: 60px;
+}
+
+.text-form h4 {
+  text-align: left;
+  margin-top: 50px;
+  margin-left: 70px;
+  font-style: oblique;
+}
+
+.text-form hr {
+  width: 50px;
+  margin-left: 100px;
+  margin-bottom: 60px;
+}
+
+.col-sm-4 img {
+  margin-left: 70px;
+}
+
+.col-sm-4 p {
+  width: 300px;
+  margin-left: 70px;
+  margin-top: 12px;
+  font-size: 16px;
+}

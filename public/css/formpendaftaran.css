@@ -1,0 +1,9 @@
+form .btn {
+  margin-top: 30px;
+  width: 90px;
+  margin-bottom: 50px;
+}
+
+.col label {
+  font-size: small;
+}
